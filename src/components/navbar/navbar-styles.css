@@ -1,0 +1,18 @@
+.container {
+    display:flex;
+    padding-left: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    align-items: 'center';
+    border-width:medium;
+    position:sticky;
+    align-content: center;
+}
+.label {
+    font-size: medium;
+    font-weight: 500;
+    align-self: center;
+}
+.image {
+    display: inline;
+}
